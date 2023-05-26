@@ -1,0 +1,6 @@
+I will be using kaggle dataset 'Moto GP World Championship(1949-2022) (https://www.kaggle.com/datasets/alrizacelk/moto-gp-world-championship19492022?resource=download)' to make an application in PyQT5. This application will give the end user access to the History of MotoGP and will be able to use this to show what riders suit which engine or bike best. It will also contain rider profiles so you can learn about each rider from 1949-2022. THIS ONLY CONTAINS RACE DATA.
+
+Credits:
+
+Dataset - ALİ RIZA CELİK (Owner)
+Licence - CC0: Public Domain
